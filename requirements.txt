@@ -1,0 +1,8 @@
+sentence-transformers
+faiss-cpu
+groq
+flask
+Pillow
+PyPDF2
+openpyxl
+numpy
